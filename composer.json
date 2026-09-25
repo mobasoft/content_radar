@@ -1,5 +1,5 @@
 {
-	"name": "mobasoft/typo3-content-radar",
+	"name": "mobasoft/content-radar",
 	"type": "typo3-cms-extension",
 	"description": "Simple content health checks for TYPO3",
 	"license": "MIT",
